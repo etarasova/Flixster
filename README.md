@@ -1,4 +1,4 @@
-## Flixster - part 1 ##
+## Flixster - part 2 ##
 
 **Flixster** is an android app that allows users view a list of movies sourced from the The Movie Database API.
 
@@ -11,12 +11,18 @@ Time spent: **5** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+* [x] The details of movie (ratings using RatingBar, popularity, and synopsis) are exposed in a separate activity. 
+* [x] Video posts are allowed to be played in full-screen using the YouTubePlayerView.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories from version 1:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Here's a screenshot(not a walkthrough since my emulator doesn't work) of implemented user stories from version 2:
+
+<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
