@@ -22,7 +22,7 @@ Here's a walkthrough of implemented user stories from version 1:
 
 Here's a screenshot(not a walkthrough since my emulator doesn't work) of implemented user stories from version 2:
 
-<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough2.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
